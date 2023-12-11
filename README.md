@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rituraj1001](https://github.com/Rituraj1001)
 
-- 💬 Ask me about **ML, DL, AI, Data Visualization.**
+- 💬 Ask me about **Machine Learning, Deep Learning, AI, Data Visualization, Power BI, MS-Excel, Python, Computer Vision, NLP, SQL**
 
 - 📫 How to reach me **riturajbhardwaj28@gmail.com**
 
