@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Data Scientist from Jaipur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituraj1001&label=Profile%20views&color=0e75b6&style=flat" alt="rituraj1001" /> </p>
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rituraj1001" alt="rituraj1001" /></a> </p>
 
