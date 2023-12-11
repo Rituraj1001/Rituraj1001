@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Scientist from Jaipur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituraj1001&label=Profile%20views&color=0e75b6&style=flat" alt="rituraj1001" /> </p>
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rituraj1001" alt="rituraj1001" /></a> </p>
 
